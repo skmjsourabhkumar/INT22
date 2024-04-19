@@ -1,0 +1,47 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.login-form{
+    margin-left:400px;
+    display: flex;
+    padding:20px;
+    width:50%;
+    
+    justify-content: center;
+    align-items: center;
+}
+.login{
+
+    border-style:groove;
+    border-radius:10px;
+    height:100%;
+    border:1px solid black;
+    margin:20px;
+    padding:20px;
+    justify-content: center;
+    align-items: center;
+}
+.item{
+    margin-top:10px;
+
+    padding:2px;
+}
+#verify-number-button{
+    width:90%;
+    margin-left:15px;
+    border-radius:5px;
+    background-color: rgb(209, 179, 9);
+}
+#create-acc{
+    margin:2px 0px 8px 5px;
+}
+.hr{
+    margin-top:20px;
+}
+.lines{
+    padding:5px;
+}
+.nm{
+    width:100%;
+    margin:5px 0px 5px 0px;
+}
